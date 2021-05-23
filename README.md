@@ -11,7 +11,7 @@ Tested on.....<br>
 <br>
 Raspberry Pi Pico<br>
 <br>
-Alto Proffesional Live 61 Keyboard<br>
+Alto Professional Live 61 Keyboard<br>
 CME UF8 keyboard<br>
 Yamaha SHS-10S keytar<br>
 <br>
