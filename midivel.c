@@ -2,28 +2,6 @@
 //
 // midivel
 //
-// Modifies MIDI velocity data eg to enable fine tuning
-// of touch sensitive keyboards.  everything apart from velocity
-// is passed straight through
-//
-// Uses polling and fifo buffers, it is assumed no data will be lost
-//
-// Tested on.....
-// Raspberry Pi Pico 
-// Alto Proffesional Live 61 Keyboard
-// CME UF8 keyboard
-// Yamaha SHS-10S keytar
-// Roland SC-7 Sound Module
-// Yamaha EMT-10 AWM Sound Expander
-//
-// Interface: Datapoint Midi Serial Interface Rev 2.0 (3.3V)
-//
-// wbiz
-// co
-// uk
-//
-// 2021-05-21
-//
 #include "pico/stdlib.h"
 
 // UART settings
