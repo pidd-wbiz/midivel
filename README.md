@@ -1,4 +1,4 @@
-# midivel
+# MIDIVEL
 MIDI velocity modifier
 
 For Raspberry Pi Pico
