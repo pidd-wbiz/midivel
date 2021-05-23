@@ -5,7 +5,7 @@ For Raspberry Pi Pico
 
 Modifies MIDI velocity data eg to enable fine tuning of touch sensitive keyboards. Everything apart from velocity is passed straight through.
 
-Uses polling and fifo buffers for uart, it is assumed there will be no datat overun.
+Uses polling and fifo buffers for uart, it is assumed there will be no data overun.
 
 Tested on.....
 
