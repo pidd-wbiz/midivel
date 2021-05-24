@@ -3,6 +3,8 @@ MIDI velocity modifier<br>
 <br>
 For Raspberry Pi Pico<br>
 <br>
+Uses pico-sdk
+<br>
 Modifies MIDI velocity data eg to enable fine tuning of touch sensitive keyboards. Everything apart from velocity is passed straight through.<br>
 <br>
 Uses polling and fifo buffers for uart, it is assumed there will be no data overun.<br>
