@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.13)
 
-include(~/pico/pico-sdk/external/pico_sdk_import.cmake)
+include(${PICO_SDK_PATH}/external/pico_sdk_import.cmake)
 
 project(midivel C CXX ASM)
 
